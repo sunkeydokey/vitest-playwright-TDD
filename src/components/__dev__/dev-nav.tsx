@@ -7,6 +7,7 @@ interface LinkItem {
 
 const links: Array<LinkItem> = [
   { tag: '컨텐츠 상세페이지', href: '/contents/cnaksdjcnaksjd' },
+  { tag: '컨텐츠 리스트 페이지', href: '/contents' },
 ];
 
 export const DevNav = () => {
